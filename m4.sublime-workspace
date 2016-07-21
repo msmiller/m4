@@ -1,0 +1,1161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contr",
+				"controller_name"
+			],
+			[
+				"org",
+				"organizations"
+			],
+			[
+				"centra",
+				"central_contact_policy"
+			],
+			[
+				"contact_da",
+				"contact_data_id"
+			],
+			[
+				"is_",
+				"is_shadow"
+			],
+			[
+				"player",
+				"player_skin"
+			],
+			[
+				"a_pl",
+				"a_player_skin"
+			],
+			[
+				"mediaplayer",
+				"mediaplayerskins"
+			],
+			[
+				"sub",
+				"submission_forms"
+			],
+			[
+				"quiz_continue",
+				"quiz_continue_text"
+			],
+			[
+				"bui",
+				"build_pthumb"
+			],
+			[
+				"pages",
+				"pages_version"
+			],
+			[
+				"user",
+				"userimage"
+			],
+			[
+				"project_",
+				"project_id"
+			],
+			[
+				"updat",
+				"update_attribute"
+			],
+			[
+				"all",
+				"allthumbs"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"loc",
+				"localized_media_url"
+			],
+			[
+				"page_",
+				"page_id"
+			],
+			[
+				"k",
+				"kind"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"las",
+				"last_geometry"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pub",
+				"public_filename"
+			],
+			[
+				"thum",
+				"thumbnails"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"page",
+				"pageprefs"
+			],
+			[
+				"dialedin-pale-",
+				"dialedin-pale-green"
+			],
+			[
+				"dialedin-li",
+				"dialedin-light-grey"
+			],
+			[
+				"dialedin-dark",
+				"dialedin-dark-blue"
+			],
+			[
+				"dialedin-bl",
+				"dialedin-light-blue"
+			],
+			[
+				"cur",
+				"current_component"
+			],
+			[
+				"invi",
+				"invitation_id"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"inv",
+				"invitation_id"
+			],
+			[
+				"pipelin",
+				"pipeline_name"
+			],
+			[
+				"medi",
+				"medium_id"
+			],
+			[
+				"au",
+				"audios"
+			],
+			[
+				"current_",
+				"current_component"
+			],
+			[
+				"web",
+				"webpage_pages"
+			],
+			[
+				"disa",
+				"disabled"
+			],
+			[
+				"sho",
+				"shortcode"
+			],
+			[
+				"pipe",
+				"pipeline_name"
+			],
+			[
+				"current",
+				"current_component"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"signatu",
+				"signature"
+			],
+			[
+				"render",
+				"render_for"
+			],
+			[
+				"Comp",
+				"Component"
+			],
+			[
+				"file_",
+				"file_url"
+			],
+			[
+				"proc",
+				"process_state"
+			],
+			[
+				"error",
+				"error_stickie"
+			],
+			[
+				"war",
+				"warning_stickie"
+			],
+			[
+				"not",
+				"notice_stickie"
+			],
+			[
+				"Med",
+				"MediaListEntry"
+			],
+			[
+				"media",
+				"media_list_entry"
+			],
+			[
+				"media_list",
+				"media_list_entries"
+			],
+			[
+				"ja",
+				"javascript_include_tag"
+			],
+			[
+				"json",
+				"jsonhash"
+			],
+			[
+				"figure",
+				"figure_page_for_anything"
+			],
+			[
+				"has_",
+				"has_div"
+			],
+			[
+				"arm",
+				"armsync"
+			],
+			[
+				"menu",
+				"menu_enables"
+			],
+			[
+				"get",
+				"get_yaml"
+			],
+			[
+				"ass",
+				"assetlist"
+			],
+			[
+				"last_s",
+				"last_sync_attempt_at"
+			],
+			[
+				"SyncA",
+				"SyncApiFuncs"
+			],
+			[
+				"sync",
+				"sync_state"
+			],
+			[
+				"ac",
+				"account_id"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"Sync",
+				"SyncState"
+			],
+			[
+				"update_",
+				"update_attributes"
+			],
+			[
+				"note",
+				"notereturn"
+			],
+			[
+				"rad",
+				"radius3"
+			],
+			[
+				"curent",
+				"current_user"
+			],
+			[
+				"red",
+				"redirect_to"
+			],
+			[
+				"or",
+				"organization"
+			],
+			[
+				"admin",
+				"admin_note"
+			],
+			[
+				"static",
+				"static_menus"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"proje",
+				"project_id"
+			],
+			[
+				"pr",
+				"projid"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"ho",
+				"horizontal"
+			],
+			[
+				"xo",
+				"xoffset"
+			],
+			[
+				"placed",
+				"placed_menus"
+			],
+			[
+				"yo",
+				"yoffset"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"each_",
+				"each_with_index"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"menu_f",
+				"menu_fgcolor"
+			],
+			[
+				"hl",
+				"hlfgcolor"
+			],
+			[
+				"app",
+				"app_pageswipe_enabled"
+			],
+			[
+				"menu_it",
+				"menu_items"
+			],
+			[
+				"dupl",
+				"duplicate"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"find_by",
+				"find_by_id"
+			],
+			[
+				"image",
+				"image_tag"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"find",
+				"find_by_id"
+			],
+			[
+				"max",
+				"maxwidth"
+			],
+			[
+				"upd",
+				"update_attribute"
+			],
+			[
+				"sta",
+				"standardized"
+			],
+			[
+				"Menu",
+				"MenuEnable"
+			],
+			[
+				"dia",
+				"disabled"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"is",
+				"istemplate"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"min",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/msmiller/Development/winpipe/Gemfile",
+			"settings":
+			{
+				"buffer_size": 2558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 2587,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Show ",
+				"Show TODOs: Open files only"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/environments/q4staging.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/initializers/sendgrid_toolkit.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config.ru",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/dataform/_form_question.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/dataform/_editor.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/dataform/_input_radios.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/dataform/_input_checks.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/dataform/_default.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/dataform/_create_data_form.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/dataform/_create_form_submit.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/initializers/fog.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/start-unicorn",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/monitrc/shared/resque-web.monitrc",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/dips",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/database.yml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/etc/monitrc.staging",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/shared-config/production/redis.conf",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/environments/production.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/etc/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/environment.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/sent_email_delivery_info.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/sent_email_delivery_info_admin_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/statusmessages_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/distart",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/amazon_s3.yml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/fog.yml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy.engineyard/monitrc/staging/unicorn.dialedin.monitrc",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/monitrc/production/unicorn-rails.monitrc",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/unicorn-production.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy.engineyard/monitrc/etc-monitrc.production",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy.engineyard/monitrc/etc-monitrc.resque",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy.engineyard/monitrc/staging/ey.monitrc",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/resque-web.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/local-env.sh",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/distop",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/dipull",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/README.pdf",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/pullrelease",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/stylesheets/designer/designer.css.scss",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/stylesheets/dialedin.style.css",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/initializers/amazon_s3.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/monitrc/staging/unicorn.monitrc",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/shared-config/unicorn.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/environments/devserver.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/monitrc/shared/redis.monitrc",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/engineyard/monitrc/production/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/engineyard/monitrc/staging/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/killpid",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/engineyard/script/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/monitrc/shared/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/monitrc/production/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/monitrc/staging/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/deploy/script/.keep",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/lib/resque/resque_process_csv.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/manager/_stackmenu.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/dialedin_mailer.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/lib/resque/resque_mailing_idlist_sendgrid_batch_send.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/contacts/import_csv.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/contacts/confirm_csv.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/contacts/import_contacts.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/shared/_import_contacts.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/contacts/_import_help.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/contacts_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/services/contacts_search_conditions_builder.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/contact.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/analyze/_stackmenu.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/organization.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/contact_data.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/layouts/rendered_page.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/layouts/enterprise_event.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/organizations_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/config/deploy.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/videoplayer/_single.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/videoplayer/_default.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/page.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/text.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/lib/resque/resque_contacts_csv.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/lib/resque/resque_crunch_csv.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/integrations_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/sync_api/two_dot_ohh_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/sync_api_funcs.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/map.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/quizform/_editor.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/public/stylesheets/components/quizform/quizform.css",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/quizform/_default.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/audioplayer/_playlist.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/designer_api/pages_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/page_committer.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/quizform/_quiz_css.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/options/_quiz.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/projectoptions/_quiz.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/submission_form.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/videoplayer.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/videoplayer/_editor.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/audioplayer.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/video.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/component.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/videoplayer/_playlist.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/videoplayer/_gallery.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/videoplayer/_insert_playlist.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/attachmentz.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/audioplayer/_editor.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/javascripts/designer/forms/components/schema.js",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/dataform.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/image.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/designer_api/components_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/quizform/_create_data_form.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/variable_injector.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/attachmentz/_default_single.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/audioplayer/_default.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/javascripts/designer/templates/components/_audiovisual.jst.ejs",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/javascripts/designer/components/audio.js",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/javascripts/designer/forms/components/schema_helpers.js",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/javascripts/designer/forms/components/template_helpers.js",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/javascripts/designer/forms/components/form.js",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/control_panel_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/controllers/pages_controller.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/event.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/quizform.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/assets/javascripts/designer/components/map.js",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/project.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/variable_replacer_class.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/db/migrate/20140204225949_adjust_component_acontent_size.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/db/migrate/8430_adjust_status_buffer_on_jobmons.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/clicktarget.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/models/components/markdown.rb",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/divs/_audio.rhtml",
+		"/Users/msmiller/Work/DialedIn/DEV/di23/app/views/components/audioplayer/_single.rhtml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"################################",
+			"WINPIPE",
+			"validates_numericality_of",
+			"min",
+			"width",
+			"condition_asset_url",
+			"assets",
+			"asse",
+			"/var/run/engineyard/unicorn/dialedin",
+			"sendgrid_callback_options",
+			"su",
+			"unicorn_dialedin_worker_",
+			"/engineyard/custom/unicorn dialedin kill_worker ",
+			"stop",
+			"RELHOME",
+			"~",
+			"RELHOME",
+			"reldir",
+			"{}",
+			" $RELHOME",
+			"asset",
+			"perform_deliveries",
+			"rails_worker_",
+			"_worker_",
+			"unicorn_dialedin",
+			"/data/dialedin/current/tmp/pids",
+			"shared/run/",
+			"shared/script/",
+			"kill_worker ",
+			"stylesheets_for",
+			"stick",
+			" (OLD)",
+			"set_org_from_id",
+			"ContactsSearchConditionsBuilder",
+			"conditions_for_contacts",
+			"sendg",
+			"tags",
+			"confirm",
+			"orgtags",
+			"x =",
+			"tags",
+			"organization",
+			"contact_attributes_from",
+			"tags",
+			"tag",
+			"tags",
+			"                             \"tags:\" + tags_field_idx.to_s + \" | \" +\n",
+			"tags",
+			"\" | \"",
+			"tags",
+			"sync_media_map",
+			"full",
+			"medium",
+			"thumbnail_url(\"splash\")",
+			"thumb",
+			"single",
+			"slim",
+			"@theassets.merge!(",
+			"parse_swf",
+			"skins",
+			"player",
+			"192",
+			"16",
+			"MINIMUM_WIDTH_HEIGHT",
+			"locals_for_pipeline",
+			"a_player_skin",
+			"20",
+			"single_file",
+			"running",
+			"@submission",
+			"quiz_css",
+			"continue",
+			"figure",
+			"click",
+			"contin",
+			"backgroun",
+			"backgr",
+			"status_text",
+			"jobmons",
+			"name",
+			"@page",
+			"project",
+			"farble_page_url",
+			"prev_page",
+			"first_page",
+			"@numresponses",
+			"76px",
+			"96",
+			"width",
+			"build_p",
+			"thumb",
+			"styles",
+			"menu",
+			"default",
+			"menu",
+			"last",
+			"asset",
+			"assets",
+			"palett",
+			"3px",
+			"eee",
+			"ddd",
+			"set_menu",
+			"dock",
+			"quiz",
+			"blueb",
+			"@pagesetup",
+			"Web Page",
+			"height",
+			"choose height",
+			"h2",
+			"pagesetup",
+			"btngreen",
+			"projslide",
+			"\"",
+			"/components",
+			"export_ass",
+			"preparepage",
+			"192",
+			"pagehtml",
+			"render",
+			"self.userimage",
+			"sync_media_map",
+			"asset",
+			"export",
+			"export_ass",
+			"sync",
+			"thumb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/usr/bin/sh /data/dialedin/current/deploy/script/killpid unicorn_worker_",
+			"setupslide",
+			"220",
+			"240",
+			"180",
+			"projslide",
+			")&nbsp;&nbsp;' }",
+			" &times; ",
+			"dialedin-silver",
+			"$dialedin-menu-background",
+			"999",
+			"white",
+			" %]",
+			"[% ",
+			"!@livelinks ? \"#\" : \"%% pageurl",
+			"newbg_menu_light",
+			": #1DAEED; /* #F1DB55; NEWDI */",
+			": #1DAEED; /* #F1DB55; */",
+			"<br>foo",
+			"<p>foo</p>",
+			"<",
+			"def self.can_resize",
+			"current_component.a_autostart",
+			"player_skin",
+			"current_component.id",
+			"@contact",
+			"@user",
+			"editmode",
+			"previewmode",
+			"current_component.width",
+			"    #case pipeline_name\n",
+			"pipeline",
+			"{pipeline_name}",
+			"(pipeline_name",
+			"case pipeline_name",
+			"(pipeline_name)",
+			"pipeline_name",
+			"{pipeline_name",
+			"(pipeline_name",
+			"pipeline",
+			"height",
+			"width",
+			"- ",
+			" + editor\n	* [ ] ...",
+			"* [ ] ",
+			"",
+			"	",
+			"\n",
+			"\"--------------------------------\"",
+			"SYNC_LOG.debug \"",
+			"SYNC_LOG",
+			"SYNC_LOG.debug",
+			"@synclogger.debug \"",
+			"([\"error1\", \"error2\"])",
+			"  description:\n  parameters:\n([\"error1\", \"error2\"])",
+			"  description:\n  parameters:\n",
+			"def self.sync_parse",
+			"[pagehtml, assets]",
+			"pagehtml, assets, doc",
+			"assets",
+			"SyncApiFuncs::ensure_urlmap",
+			"syncuser",
+			"2013-01-01 00:00:00",
+			"params['return']",
+			"span.menu_item",
+			"div.",
+			"div#",
+			"@menu.",
+			"menu_<%= @menu.id %>",
+			"@menu.styles['buttons']",
+			"@menu.",
+			"",
+			" ",
+			"",
+			"menu.",
+			"menu_<%= ",
+			"#menu-<%= menu.id %>",
+			"menu.",
+			"list_menuitem",
+			"",
+			".sortable",
+			"",
+			"</span> <span class='tagbox'>",
+			"@media_type"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/msmiller/Development/winpipe/Gemfile",
+					"settings":
+					{
+						"buffer_size": 2558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1392,
+								1392
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 766.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 2587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1653,
+								1653
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 829.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true
+}

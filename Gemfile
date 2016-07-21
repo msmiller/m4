@@ -62,6 +62,8 @@ gem 'jbuilder', '~> 2.5'
 # gem "auto_html"
 # gem 'activevalidators'
 
+gem 'settingslogic'
+
 ########## MSM GEMS ########
 ############################
 
