@@ -30,6 +30,41 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+############################
+########## MSM GEMS ########
+
+# CORE ...
+
+# gem "pundit"
+# gem "devise"
+# gem 'active_interaction'
+
+# Needed for Draper 2.1.0 - https://github.com/drapergem/draper/issues/697
+# gem 'activemodel-serializers-xml', github: 'rails/activemodel-serializers-xml'
+# gem 'draper'
+# gem 'draper', '~> 3.0.0.pre1'
+
+# gem 'rails-settings-cached'
+
+# gem 'message_bus'
+
+# UI ...
+
+# gem "cells"
+# gem 'font-awesome-rails'
+# gem "colorize"
+
+# UTILITY ...
+
+# gem "high_voltage"
+# gem "favicon_maker"
+# gem "agent_orange"
+# gem "auto_html"
+# gem 'activevalidators'
+
+########## MSM GEMS ########
+############################
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
@@ -42,6 +77,17 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+end
+
+# MSM DEVELOPMENT STACK
+group :development do
+  gem "better_errors"
+  #gem "binding_of_caller"
+  #gem 'pry'
+  #gem 'pry-nav'
+  ### gem 'quiet_assets'
+  gem 'awesome_print'
+  gem 'seed_dump' # rake db:seed:dump
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
