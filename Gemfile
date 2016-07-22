@@ -64,6 +64,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'settingslogic'
 
+### gem 'algoliasearch'
+gem 'algoliasearch-rails'
+
 ########## MSM GEMS ########
 ############################
 
@@ -90,6 +93,7 @@ group :development do
   ### gem 'quiet_assets'
   gem 'awesome_print'
   gem 'seed_dump' # rake db:seed:dump
+  # gem "seedbank"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
