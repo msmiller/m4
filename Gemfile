@@ -64,7 +64,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'settingslogic'
 
-### gem 'algoliasearch'
+gem 'algoliasearch'
 gem 'algoliasearch-rails'
 
 ########## MSM GEMS ########

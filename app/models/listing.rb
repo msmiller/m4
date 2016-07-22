@@ -5,15 +5,21 @@ class Listing < ApplicationRecord
   has_many :attribs
 
   algoliasearch do
-    attribute :listing do
-      { name: listing.name, email: listing.compaany }
-    end
+    attributes :name, :company, :state
+    attributesToIndex ['name', 'company', 'unordered(state)']
     attribute :attribs do
       # build an array of public specialization (include only `title` and `another_attr`)
-      specializations.select { |s| s.public? }.map do |s|
-        { key: s.value, value: s.value }
-      end
+      #attribs.map do |s|
+      #  { key: s.key, value: s.value } if s.value == 't'
+      #end
+      #attribs.map do |s|
+      #  { key: s.key, value: s.value } if s.value == 't'
+      #end.compact
+      attribs.map do |s|
+          { s.key => s.value }
+      end.reduce Hash.new, :merge
     end
+
   end
 
 end

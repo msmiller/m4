@@ -173,6 +173,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  algoliasearch
   algoliasearch-rails
   awesome_print
   better_errors
