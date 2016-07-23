@@ -16,3 +16,5 @@ Algolia.init :application_id => "A6K37I7DGO",
 
 # List indexes
  Algolia.list_indexes
+
+2.2.3 :011 > hits = Listing.search("Trump year office wall")

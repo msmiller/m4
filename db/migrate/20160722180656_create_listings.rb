@@ -6,6 +6,7 @@ class CreateListings < ActiveRecord::Migration[5.0]
       t.string :company
       t.string :address
       t.string :state
+      t.text :description
 
       t.timestamps
     end

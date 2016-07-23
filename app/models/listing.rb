@@ -5,8 +5,8 @@ class Listing < ApplicationRecord
   has_many :attribs
 
   algoliasearch do
-    attributes :name, :company, :state
-    attributesToIndex ['name', 'company', 'unordered(state)']
+    attributes :name, :company, :state, :description
+    attributesToIndex ['name', 'company', 'unordered(state)', 'description']
     attribute :attribs do
       # build an array of public specialization (include only `title` and `another_attr`)
       #attribs.map do |s|

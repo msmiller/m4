@@ -25,8 +25,9 @@ ActiveRecord::Schema.define(version: 20160722180702) do
     t.string   "company"
     t.string   "address"
     t.string   "state"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.text     "description"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
   end
 
 end
